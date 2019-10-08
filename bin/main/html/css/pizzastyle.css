@@ -1,0 +1,24 @@
+
+.introduction {
+    max-width: 400px;
+    margin: 10rem 10rem auto;
+}
+
+.landing-image {
+    justify-content: flex-end;
+}
+.landing-page {
+    display:flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.Main-Header {
+    display: flex;
+    justify-content: center;
+}
+
+.Welcome {
+    display: flex;
+    justify-content: center;
+}
