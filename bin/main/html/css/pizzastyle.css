@@ -1,7 +1,13 @@
 
+.explore-tab {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    margin: 0rem 0rem auto;
+}
 .introduction {
     max-width: 400px;
-    margin: 10rem 10rem auto;
+    margin: 4rem 10rem auto;
 }
 
 .landing-image {
