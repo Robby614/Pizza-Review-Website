@@ -1,9 +1,4 @@
-.contact-info {
-    display:flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    margin: 20rem 0rem auto;
-}
+
 .explore-tab {
     display: flex;
     flex-direction: row-reverse;
@@ -28,6 +23,10 @@
     justify-content: center;
 }
 .Main-Header {
+    display: flex;
+    justify-content: center;
+}
+.Pizza_Places {
     display: flex;
     justify-content: center;
 }
